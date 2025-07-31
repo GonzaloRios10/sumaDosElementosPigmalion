@@ -8,8 +8,8 @@ El programa recibe una lista de números enteros y una suma requerida, y determi
 ## Lenguaje y Herramientas utilizadas
 
 - Lenguaje: C#  
-- Versión de .NET utilizada: .NET 9.0.100 
-- Editor: Visual Studio / Visual Studio Code  
+- Versión de .NET: .NET 9.0.100 
+- Editor: Visual Studio Code  
 
 ## Cómo usar
 
