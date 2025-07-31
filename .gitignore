@@ -1,0 +1,10 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Configuraciones de usuario / IDE
+.vs/
+*.user
+*.suo
+.vscode/
+.idea/
