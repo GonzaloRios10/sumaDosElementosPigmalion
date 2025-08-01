@@ -13,12 +13,16 @@ El programa recibe una lista de números enteros y una suma requerida, y determi
 
 ## Cómo usar
 
-1. Clonar el repositorio o descargar el código fuente.  
-2. Abrir la solución en el editor de su preferencia.  
+1. Clonar el repositorio o descargar el código fuente.
+   
+   ```bash
+    git clone https://github.com/GonzaloRios10/sumaDosElementosPigmalion.git
+    ```
+3. Abrir la solución en el editor de su preferencia.  
 
 ### En Visual Studio:
 - Abrir el archivo `.sln`.
-- Seleccionar el proyecto deseado (**punto1_recursosInfinitos** o **punto2_recursosLimitados**).
+- Seleccionar el proyecto (**punto1_recursosInfinitos** o **punto2_recursosLimitados**).
 - Ejecutar.
 
 <img width="1898" height="182" alt="image" src="https://github.com/user-attachments/assets/e65f9749-2e7c-4b2c-8e09-cf22add861a5" />
